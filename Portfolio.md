@@ -1,5 +1,14 @@
 # Portfolio 
 
+- Develop language
+    - Main
+        - Kotlin
+        - Golang
+    - Sub
+      - Java
+      - Dart
+      - C++ / C#
+
 - 경력
     - xlab (2017.11 ~ 현재)
         - petxlab 안드로이드 앱 유지보수 (현재 중단)
